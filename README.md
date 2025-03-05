@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @memoo-design
+- 👋 Hi, I’m @memoo-hub
 - 👀 I’m interested in full stack web developement
 - 🌱 I’m currently learning front-end developement
 - 💞️ I’m looking to collaborate on front-end developement projects
